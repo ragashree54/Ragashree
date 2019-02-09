@@ -11,7 +11,7 @@ if(n>0)
 	
 {
 		
-printf("\n Positive");
+printf("Positive");
 	
 }
 	
@@ -19,13 +19,13 @@ else if(n<0)
 	
 {
 		
-printf("\n Negative");
+printf("Negative");
 	
 }
 	
 else{
 	
-printf("\n Zero");
+printf("Zero");
 
 }
 	
